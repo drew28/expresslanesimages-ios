@@ -6,6 +6,7 @@ Creating Express Lanes Images for iOS.
 
 ### Dynamic signs
  - [ ] - Load JSON file for dynamic signs
+ - [ ] - Update view to show sign and description
  - [ ] - Implement refresh via button or pull down to reload
 
 ### Trip cost estimator
